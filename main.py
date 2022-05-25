@@ -448,7 +448,7 @@ def main(expression):
 option = 0
 
 while True:
-    print("Calculate two numbers.\n")
+    print("Calculator\n")
     print("1. Add (+)")
     print("2. Subtract (-)")
     print("3. Multiply (*)")
