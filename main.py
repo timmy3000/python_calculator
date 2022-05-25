@@ -1,4 +1,3 @@
-
 import re
 
 def simpleCalculator(option, x, y):
@@ -82,8 +81,6 @@ def lastIndexOf(arr, delimiter):
             return i
 
     return -1
-
-
 
 
 
